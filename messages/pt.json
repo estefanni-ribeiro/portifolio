@@ -1,0 +1,42 @@
+{
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "projects": "Projetos",
+    "contact": "Contato"
+  },
+  "home": {
+    "title": "Olá, eu sou",
+    "description": "Um desenvolvedora Frontend criando experiências web modernas e responsivas.",
+    "projectsLink": "Ver meus projetos",
+    "contactLink": "Fale comigo"
+  },
+  "footer": {
+    "copyright": "Todos os direitos reservados"
+  },
+  "about": {
+    "title": "Sobre Mim",
+    "skills": "Habilidades",
+    "desc1": "Sou um desenvolvedora apaixonada por aplicações web, focada em construir apps modernos, escaláveis e com alto desempenho. Me preocupo com código limpo, boas experiências de usuário e aprendizado contínuo. Sou especializado em React, Next.js, TypeScript e Tailwind CSS. Tenho conhecimento do ciclo completo de desenvolvimento, incluindo linguagens de backend como Java.",
+    "desc2": "Quando não estou programando, estou explorando novas tecnologias, aprimorando minhas habilidades de UI/UX ou trabalhando em projetos paralelos que me desafiam a crescer. Atualmente em busca de um emprego."
+  },
+  "contact": {
+    "title": "Fale Comigo",
+    "desc": "Atualmente aberta para novos projetos e em busca de novas oportunidades de emprego.",
+    "pInput": "Seu Nome",
+    "pEmail": "Seu Email",
+    "pMessage": "Sua Mensagem",
+    "sendMessage": "Enviar Mensagem",
+    "sending": "Enviando...",
+    "success": "Mensagem enviada com sucesso!",
+    "fail": "Ops! Algo deu errado.",
+    "cv": "Baixar CV"
+  },
+  "projects": {
+    "title": "Meus Projetos",
+    "portifolioTitle": "Site Portfólio",
+    "portifolioDesc": "Um portfólio em React moderno, responsivo e animado, construído com Next.js e Tailwind CSS.",
+    "todoTitle": "App de Tarefas",
+    "todoDesc": "Um app simples de lista de tarefas utilizando os fundamentos do React."
+  }
+}

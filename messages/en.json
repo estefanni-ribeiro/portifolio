@@ -1,0 +1,40 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "Hi, I'm",
+    "description": "A FrontEnd Developer building modern, responsive web experiences.",
+    "projectsLink": "View my projects",
+    "contactLink": "Contact me"
+  },
+  "footer": { "copyright": "All rights reserved" },
+  "about": {
+    "title": "About Me",
+    "skills": "Skills",
+    "desc1": "I'm a passionate web application developer focused on building performant, modern and scalable web apps. I care about clean code, smooth user experiences, and continuous learning. I'm especialized in React, Next.js, and TypeScript, tailwind css. I have knowledge ofthe full lificycle of applications, including BE languages like Java.",
+    "desc2": "When I’m not coding, I’m exploring new technologies, improving my UI/UX skills, or working on side projects that challenge me to grow. Currently looking for a job."
+  },
+  "contact": {
+    "title": "Contact Me",
+    "desc": "Currently open to new projects and looking for new job opportunities.",
+    "pInput": "Your Name",
+    "pEmail": "Your Email",
+    "pMessage": "Your Message",
+    "sendMessage": "Send Message",
+    "sending": "Sending...",
+    "success": "Message sent successfully!",
+    "fail": "Oops! Something went wrong.",
+    "cv": "Download CV"
+  },
+  "projects": {
+    "title": "My Projects",
+    "portifolioTitle": "Portfolio Website",
+    "portifolioDesc": "A sleek, responsive and animated React portfolio built with Next.js and Tailwind CSS.",
+    "todoTitle": "Todo App",
+    "todoDesc": "A simple todo list app using basics of React."
+  }
+}
