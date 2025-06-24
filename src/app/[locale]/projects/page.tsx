@@ -22,7 +22,7 @@ const projects = [
   {
     id: "todo",
     tech: ["React", "JSON Server", "CSS", "HTML5"],
-    link: "https://todoapp.vercel.app",
+    link: "https://todo-list-weld-mu.vercel.app/",
     repo: "https://github.com/estefanni-ribeiro/todo-list",
     image: "/todo.png",
   },
