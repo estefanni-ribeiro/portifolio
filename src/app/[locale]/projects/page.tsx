@@ -15,8 +15,8 @@ const projects = [
       "Framer Motion",
       "HTML5",
     ],
-    link: "https://your-portfolio.vercel.app",
-    repo: "https://github.com/yourusername/portfolio",
+    link: "https://portifolio-drab-eight-45.vercel.app/pt",
+    repo: "https://github.com/estefanni-ribeiro/portifolio",
     image: "/portifolioProject.png",
   },
   {
