@@ -125,7 +125,7 @@ export default function ContactPage() {
       {/* CV Download */}
       <div className="mt-8 text-center">
         <Link
-          href="/cv/Estefanni_Ribeiro_Revisado_CV.pdf"
+          href="/cv/Estefanni_Ribeiro.pdf"
           download
           className="inline-block px-6 py-3 border border-indigo-600 text-indigo-600 rounded-xl hover:bg-indigo-50 dark:hover:bg-indigo-900 transition"
         >
